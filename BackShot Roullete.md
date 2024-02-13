@@ -8,7 +8,7 @@
 
 ## Modos
 ---
-> [!info]
+> [!INFO]
 > <font color="#76923c">Modo básico:</font>
 > 	<font color="#d7e3bc">2 jugadores. 1 vs 1 en una batalla encarnizada por la supervivencia, una sola terminal que acabara decidiendo vuestro destino</font>
 > <font color="#ff0000">Advanced mode: (OPCIONAL)</font>
@@ -16,7 +16,7 @@
 
 ## Reglas básicas
 ---
->[!danger] IMPORTANTE
+>[!DANGER] IMPORTANTE
 > El orden de juego sera aleatorio
 > Máximo de 8 balas
 > No habrá ningún potenciador hasta la ronda 2
@@ -31,7 +31,7 @@
 
 ## Modo básico
 ---
-> [!info] Ronda 1
+> [!INFO] Ronda 1
 > Cada parte contara con 2 VIDAS
 > 1 cartucho <font color="#ff0000">REAL</font> 2 cartuchos <font color="#d7e3bc">VACÍOS</font>
 > Turno 2 -> 
@@ -39,13 +39,13 @@
 >
 
 
->[!info] Ronda 2
+>[!INFO] Ronda 2
 > 4 VIDAS
 > Empieza con 1 cartucho <font color="#ff0000">REAL</font> 1 cartucho <font color="#76923c">VACIO</font>
 > 2 POTENCIADORES cada uno por turno
 > Balas ALEATORIAS
 
->[!important] MUERTE SÚBITA
+>[!IMPORTANT] MUERTE SÚBITA
 > 6 VIDAS
 > 2 segundos para ver los cartuchos
 > 4 objetos por turno
